@@ -35,7 +35,7 @@ This repository contains Python code examples and explanations covering fundamen
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/ My-python-programpython/concepts.git`
+1. Clone the repository: `git clone https://github.com/ SouravGhosh98/concepts.git`
 2. Navigate to the project directory: `cd My-python-program'
 3. Explore the folders and files for code examples related to each concept.
 
